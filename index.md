@@ -1,4 +1,4 @@
-@import "{{ site.theme }}";
+
 <table border=1>
   <tr>
     <td>
