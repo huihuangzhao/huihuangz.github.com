@@ -757,8 +757,9 @@ header p {
   background-color: #FFE788;
 }
 #banner hh {
+  position: relative;
   left: 50%;
-  margin-left: -350px;
+  margin-left: -300px;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
