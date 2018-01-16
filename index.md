@@ -1,4 +1,3 @@
-   <link rel="stylesheet" href="stylesheets/styles.css">
 <table border=0>
   <tr>
     <td>
@@ -17,7 +16,7 @@
        <span id="logo2"><a href="https://huihuangz.github.com" class="button fork"><strong>My Group</strong></a></span>
   </td> 
   </tr>
-        </table>
+</table>
 
 <!-- end banner -->
 <p>
