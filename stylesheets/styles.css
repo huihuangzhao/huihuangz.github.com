@@ -776,6 +776,15 @@ header p {
   float: left;
   margin-left: 10px;
 }
+
+#banner hh {
+  position: center;
+  list-style: none;
+  height: 40px;
+  padding: 0;
+  float: left;
+  margin-left: 130px;
+}
 #banner ul li {
   display: inline;
 }
