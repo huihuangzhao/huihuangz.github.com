@@ -1,4 +1,5 @@
-<table border=0>
+@import "{{ site.theme }}";
+<table border=1>
   <tr>
     <td>
       <span id="logo1"><a href="https://huihuangz.github.com" class="button fork"><strong>Home</strong></a> </span>    
