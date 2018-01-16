@@ -691,7 +691,7 @@ header p {
   left: 0;
   right: 50%;
   height: 50px;
-  width: 680px;
+  margin-right: -260px;
   position: relative;
   top: 115px;
   background: #ffcc00;
