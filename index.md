@@ -1,11 +1,6 @@
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-</head>
-<div id="banner">
+   <link rel="stylesheet" href="stylesheets/styles.css">
+   <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+
 <table border=0>
   <tr>
     <td>
@@ -25,7 +20,7 @@
   </td> 
   </tr>
         </table>
-  </div>
+
 <!-- end banner -->
 <p>From 02/11/2017 to now  </strong>     
 I am an Sponsor Reasear at School of Computer Science & Informatics, Cardiff University , UK, and collaborate closely with Prof.       <a class="anchor" href="http://users.cs.cf.ac.uk/Paul.Rosin" > <span class="octicon octicon-link">Paul Rosin</span></a>
