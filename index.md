@@ -20,6 +20,12 @@
   <td>      
        <span id="logo2"><a href="https://huihuangz.github.com" class="button fork"><strong>Publications</strong></a></span>
   </td> 
+   <td>      
+       <span id="logo2"><a href="https://huihuangz.github.com" class="button fork"><strong>Code</strong></a></span>
+  </td> 
+   <td>      
+       <span id="logo2"><a href="https://huihuangz.github.com" class="button fork"><strong>My Group</strong></a></span>
+  </td> 
   </tr>
         </table>
   </div>
