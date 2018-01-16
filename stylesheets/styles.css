@@ -756,6 +756,14 @@ header p {
   font-size: 14px;
   background-color: #FFE788;
 }
+#banner hh {
+  left: 50%;
+  list-style: none;
+  height: 40px;
+  padding: 0;
+  float: left;
+  margin-left: -325px;
+}
 #banner .downloads {
   float: right;
   margin: 0 45px 0 0;
@@ -777,14 +785,7 @@ header p {
   margin-left: 10px;
 }
 
-#banner hh {
-  position: center;
-  list-style: none;
-  height: 40px;
-  padding: 0;
-  float: left;
-  margin-left: 130px;
-}
+
 #banner ul li {
   display: inline;
 }
