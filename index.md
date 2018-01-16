@@ -1,6 +1,4 @@
    <link rel="stylesheet" href="stylesheets/styles.css">
-   <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-
 <table border=0>
   <tr>
     <td>
