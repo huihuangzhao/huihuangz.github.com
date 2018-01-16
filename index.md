@@ -22,7 +22,9 @@
         </table>
 
 <!-- end banner -->
-<p>From 02/11/2017 to now  </strong>     
+<p>
+<p>
+<p><strong>From 02/11/2017 to now  </strong>     
 I am an Sponsor Reasear at School of Computer Science & Informatics, Cardiff University , UK, and collaborate closely with Prof.       <a class="anchor" href="http://users.cs.cf.ac.uk/Paul.Rosin" > <span class="octicon octicon-link">Paul Rosin</span></a>
         and DR.<a class="anchor" href="http://users.cs.cf.ac.uk/Yukun.Lai" ><span class="octicon octicon-link">Yukun Lai</span></a>
 <p>
